@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="titleMess">一発屋クイズ</string>
+    <string name="btnMess01">クイズに挑戦</string>
+    <string name="title_activity_game_play">gamePlayActivity</string>
+    <string name="quiz01">この人は誰？</string>
+    <string name="finalanser">決定</string>
+    <string name="title_activity_win">WinActivity</string>
+    <string name="win">1000万</string>
+    <string name="title_activity_lose">loseActivity</string>
+    <string name="lose">残念〜！</string>
+
+    <string name="q1s1">①スギちゃん</string>
+    <string name="q1s2">②カバちゃん</string>
+    <string name="q1s3">③くろちゃん</string>
+    <string name="q1s4">④ムーディ勝山</string>
+
+</resources>
